@@ -1,1 +1,2 @@
-Test GIT Repo für Java.
+# Rundenbasiertesspiel
+Rundenbasiertes Spiel für mein Informatik Projekt 
